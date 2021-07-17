@@ -1,0 +1,1 @@
+# retrieve aks cluster kubeconfig by using golang
